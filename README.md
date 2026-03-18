@@ -14,6 +14,25 @@ The project follows the course requirements for:
 
 This repository contains the final deliverables for the midterm submission.
 
+## Repository Structure
+hotel-booking-midterm/
+├── README.md
+├── docs/
+│   ├── dataset_source.md
+│   ├── proposal.pdf
+│   ├── reflection_journal.md
+├── notebooks/
+│   └── hotel_booking_EDA.ipynb
+└── data/
+    ├── raw/
+    │   ├── hotel_bookings.csv
+    │   ├── hotel_bookings_train_raw.csv
+    │   └── hotel_bookings_test_raw.csv
+    └── cleaned/
+        ├── hotel_bookings_clean_full.csv
+        ├── hotel_bookings_clean_train.csv
+        └── hotel_bookings_clean_test.csv
+        
 ## Original Dataset
 - **Dataset name:** Hotel Booking Demand Dataset
 - **Original source:** Kaggle
@@ -73,12 +92,3 @@ Categorical columns were converted into numeric format using **one-hot encoding*
 Selected skewed numeric features were transformed where appropriate, and numeric columns were scaled for future machine learning use.
 
 **Note:** `adr` was **scaled only** and was **not log-transformed** in the final corrected workflow.
-
-## Deliverables Included
-This repository includes the following submission materials:
-
-1. **Original dataset URL document**
-2. **One-page proposal PDF**
-3. **Jupyter notebook** showing before and after preprocessing
-4. **Reflection journal**
-5. **Final cleaned dataset**
