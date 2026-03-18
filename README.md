@@ -18,22 +18,13 @@ This repository contains the final deliverables for the midterm submission.
 ```text
 hotel-booking-midterm/
 ├── README.md
-├── docs/
-│   ├── dataset_source.md
-│   ├── proposal.pdf
-│   └── reflection_journal.md
-├── notebooks/
-│   └── hotel_booking_EDA.ipynb
-└── data/
-    ├── raw/
-    │   ├── hotel_bookings.csv
-    │   ├── hotel_bookings_train_raw.csv
-    │   └── hotel_bookings_test_raw.csv
-    └── cleaned/
-        ├── hotel_bookings_clean_full.csv
-        ├── hotel_bookings_clean_train.csv
-        └── hotel_bookings_clean_test.csv
+├── dataset_source.md
+├── proposal.pdf
+├── reflection_journal.md
+├── hotel_booking_EDA.ipynb
+└── link_to_cleaned_dataset.md
 ```
+
 
 ## Original Dataset
 - **Dataset name:** Hotel Booking Demand Dataset 
