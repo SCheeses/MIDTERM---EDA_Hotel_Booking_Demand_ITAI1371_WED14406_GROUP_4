@@ -36,7 +36,7 @@ Kate completed the correction and integration pass on the project deliverables. 
 ### Alexia
 Alexia contributed to reviewing the preprocessing workflow, especially the handling of categorical variables and feature engineering decisions. She helped support the logic for using one-hot encoding instead of assigning arbitrary numeric labels, and she contributed to reviewing whether the engineered features were useful and easy to justify.
 
-### Cherluck
+### Cherluk
 Cherluck contributed to checking the consistency of the numeric preprocessing steps and supported the review of the final outputs. This included reviewing transformation choices for skewed numeric variables and helping verify that the notebook explanations, cleaned datasets, and final written materials matched each other.
 
 ## Challenges, Judgment Calls, and Reasoning
