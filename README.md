@@ -15,12 +15,13 @@ The project follows the course requirements for:
 This repository contains the final deliverables for the midterm submission.
 
 ## Repository Structure
+```text
 hotel-booking-midterm/
 ├── README.md
 ├── docs/
 │   ├── dataset_source.md
 │   ├── proposal.pdf
-│   ├── reflection_journal.md
+│   └── reflection_journal.md
 ├── notebooks/
 │   └── hotel_booking_EDA.ipynb
 └── data/
@@ -32,9 +33,10 @@ hotel-booking-midterm/
         ├── hotel_bookings_clean_full.csv
         ├── hotel_bookings_clean_train.csv
         └── hotel_bookings_clean_test.csv
-        
+```
+
 ## Original Dataset
-- **Dataset name:** Hotel Booking Demand Dataset
+- **Dataset name:** Hotel Booking Demand Dataset 
 - **Original source:** Kaggle
 - **Target variable:** `is_canceled`
 
