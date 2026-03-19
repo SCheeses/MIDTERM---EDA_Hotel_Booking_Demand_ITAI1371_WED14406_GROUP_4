@@ -21,7 +21,7 @@ hotel-booking-midterm/
 ├── dataset_source.md
 ├── proposal.pdf
 ├── reflection_journal.md
-├── hotel_booking_EDA.ipynb
+├── hotel_booking_cleanup_jupyter_notebook.ipynb
 └── link_to_cleaned_dataset.md
 ```
 
