@@ -84,4 +84,4 @@ Categorical columns were converted into numeric format using **one-hot encoding*
 ### 6. Normalization and Scaling
 Selected skewed numeric features were transformed where appropriate, and numeric columns were scaled for future machine learning use.
 
-**Note:** `adr` was **scaled only** and was **not log-transformed** in the final corrected workflow.
+**Note:** Adjusted Daily Rate `adr` was **scaled only** and was **not log-transformed** in the final corrected workflow.
